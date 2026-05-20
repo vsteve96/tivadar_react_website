@@ -35,7 +35,7 @@ function App() {
             <div className="hero-meta">
               <div>
                 <span className="meta-label">Location</span>
-                <span>Chicago, IL</span>
+                <span>316 N Michigan St., Suite 600, Toledo, OH 43604</span>
               </div>
               <div>
                 <span className="meta-label">Availability</span>
