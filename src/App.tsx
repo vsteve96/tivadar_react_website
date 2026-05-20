@@ -5,16 +5,16 @@ function App() {
     <div className="page">
       <header className="nav">
         <div className="brand">
-          <span className="brand-mark">TR</span>
+          <span className="brand-mark">TK</span>
           <div>
-            <div className="brand-name">Tivadar & Reed</div>
-            <div className="brand-tagline">Counsel. Clarity. Resolve.</div>
+            <div className="brand-name">Law Office of Tivadar Kiss</div>
+            <div className="brand-tagline">Criminal Defense Attorney</div>
           </div>
         </div>
         <nav className="nav-links">
-          <a href="#practice">Practice</a>
-          <a href="#about">About</a>
-          <a href="#approach">Approach</a>
+          <a href="#practice">Home</a>
+          <a href="#about">Services</a>
+          <a href="#contact">Contact</a>
           <a href="#contact" className="nav-cta">Schedule</a>
         </nav>
       </header>
